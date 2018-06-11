@@ -1,0 +1,9 @@
+c:\users\acad.user\source\repos\t01_AvaCarona\AvaCarona.API\bin\Debug\netcoreapp1.1\AvaCarona.API.deps.json
+c:\users\acad.user\source\repos\t01_AvaCarona\AvaCarona.API\bin\Debug\netcoreapp1.1\AvaCarona.API.dll
+c:\users\acad.user\source\repos\t01_AvaCarona\AvaCarona.API\bin\Debug\netcoreapp1.1\AvaCarona.API.pdb
+c:\users\acad.user\source\repos\t01_AvaCarona\AvaCarona.API\obj\Debug\netcoreapp1.1\AvaCarona.API.csprojAssemblyReference.cache
+c:\users\acad.user\source\repos\t01_AvaCarona\AvaCarona.API\obj\Debug\netcoreapp1.1\AvaCarona.API.csproj.CoreCompileInputs.cache
+c:\users\acad.user\source\repos\t01_AvaCarona\AvaCarona.API\obj\Debug\netcoreapp1.1\AvaCarona.API.AssemblyInfoInputs.cache
+c:\users\acad.user\source\repos\t01_AvaCarona\AvaCarona.API\obj\Debug\netcoreapp1.1\AvaCarona.API.AssemblyInfo.cs
+c:\users\acad.user\source\repos\t01_AvaCarona\AvaCarona.API\obj\Debug\netcoreapp1.1\AvaCarona.API.dll
+c:\users\acad.user\source\repos\t01_AvaCarona\AvaCarona.API\obj\Debug\netcoreapp1.1\AvaCarona.API.pdb

@@ -1,0 +1,17 @@
+c:\users\acad.user\source\repos\t01_AvaCarona\AvaCarona.UnitTestes\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\acad.user\source\repos\t01_AvaCarona\AvaCarona.UnitTestes\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\acad.user\source\repos\t01_AvaCarona\AvaCarona.UnitTestes\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\acad.user\source\repos\t01_AvaCarona\AvaCarona.UnitTestes\bin\Debug\netcoreapp2.1\AvaCarona.UnitTestes.deps.json
+c:\users\acad.user\source\repos\t01_AvaCarona\AvaCarona.UnitTestes\bin\Debug\netcoreapp2.1\AvaCarona.UnitTestes.runtimeconfig.json
+c:\users\acad.user\source\repos\t01_AvaCarona\AvaCarona.UnitTestes\bin\Debug\netcoreapp2.1\AvaCarona.UnitTestes.runtimeconfig.dev.json
+c:\users\acad.user\source\repos\t01_AvaCarona\AvaCarona.UnitTestes\bin\Debug\netcoreapp2.1\AvaCarona.UnitTestes.dll
+c:\users\acad.user\source\repos\t01_AvaCarona\AvaCarona.UnitTestes\bin\Debug\netcoreapp2.1\AvaCarona.UnitTestes.pdb
+c:\users\acad.user\source\repos\t01_AvaCarona\AvaCarona.UnitTestes\bin\Debug\netcoreapp2.1\AvaCarona.API.dll
+c:\users\acad.user\source\repos\t01_AvaCarona\AvaCarona.UnitTestes\bin\Debug\netcoreapp2.1\AvaCarona.API.pdb
+c:\users\acad.user\source\repos\t01_AvaCarona\AvaCarona.UnitTestes\obj\Debug\netcoreapp2.1\AvaCarona.UnitTestes.csprojAssemblyReference.cache
+c:\users\acad.user\source\repos\t01_AvaCarona\AvaCarona.UnitTestes\obj\Debug\netcoreapp2.1\AvaCarona.UnitTestes.csproj.CoreCompileInputs.cache
+c:\users\acad.user\source\repos\t01_AvaCarona\AvaCarona.UnitTestes\obj\Debug\netcoreapp2.1\AvaCarona.UnitTestes.AssemblyInfoInputs.cache
+c:\users\acad.user\source\repos\t01_AvaCarona\AvaCarona.UnitTestes\obj\Debug\netcoreapp2.1\AvaCarona.UnitTestes.AssemblyInfo.cs
+c:\users\acad.user\source\repos\t01_AvaCarona\AvaCarona.UnitTestes\obj\Debug\netcoreapp2.1\AvaCarona.UnitTestes.csproj.CopyComplete
+c:\users\acad.user\source\repos\t01_AvaCarona\AvaCarona.UnitTestes\obj\Debug\netcoreapp2.1\AvaCarona.UnitTestes.dll
+c:\users\acad.user\source\repos\t01_AvaCarona\AvaCarona.UnitTestes\obj\Debug\netcoreapp2.1\AvaCarona.UnitTestes.pdb

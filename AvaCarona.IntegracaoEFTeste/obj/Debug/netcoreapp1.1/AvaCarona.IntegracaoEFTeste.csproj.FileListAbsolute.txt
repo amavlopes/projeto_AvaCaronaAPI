@@ -1,0 +1,17 @@
+c:\users\acad.user\source\repos\t01_AvaCarona\AvaCarona.IntegracaoEFTeste\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\acad.user\source\repos\t01_AvaCarona\AvaCarona.IntegracaoEFTeste\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\acad.user\source\repos\t01_AvaCarona\AvaCarona.IntegracaoEFTeste\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\acad.user\source\repos\t01_AvaCarona\AvaCarona.IntegracaoEFTeste\bin\Debug\netcoreapp1.1\AvaCarona.IntegracaoEFTeste.deps.json
+c:\users\acad.user\source\repos\t01_AvaCarona\AvaCarona.IntegracaoEFTeste\bin\Debug\netcoreapp1.1\AvaCarona.IntegracaoEFTeste.runtimeconfig.json
+c:\users\acad.user\source\repos\t01_AvaCarona\AvaCarona.IntegracaoEFTeste\bin\Debug\netcoreapp1.1\AvaCarona.IntegracaoEFTeste.runtimeconfig.dev.json
+c:\users\acad.user\source\repos\t01_AvaCarona\AvaCarona.IntegracaoEFTeste\bin\Debug\netcoreapp1.1\AvaCarona.IntegracaoEFTeste.dll
+c:\users\acad.user\source\repos\t01_AvaCarona\AvaCarona.IntegracaoEFTeste\bin\Debug\netcoreapp1.1\AvaCarona.API.dll
+c:\users\acad.user\source\repos\t01_AvaCarona\AvaCarona.IntegracaoEFTeste\bin\Debug\netcoreapp1.1\AvaCarona.API.pdb
+c:\users\acad.user\source\repos\t01_AvaCarona\AvaCarona.IntegracaoEFTeste\obj\Debug\netcoreapp1.1\AvaCarona.IntegracaoEFTeste.csproj.CoreCompileInputs.cache
+c:\users\acad.user\source\repos\t01_AvaCarona\AvaCarona.IntegracaoEFTeste\obj\Debug\netcoreapp1.1\AvaCarona.IntegracaoEFTeste.AssemblyInfoInputs.cache
+c:\users\acad.user\source\repos\t01_AvaCarona\AvaCarona.IntegracaoEFTeste\obj\Debug\netcoreapp1.1\AvaCarona.IntegracaoEFTeste.AssemblyInfo.cs
+c:\users\acad.user\source\repos\t01_AvaCarona\AvaCarona.IntegracaoEFTeste\obj\Debug\netcoreapp1.1\AvaCarona.IntegracaoEFTeste.csproj.CopyComplete
+c:\users\acad.user\source\repos\t01_AvaCarona\AvaCarona.IntegracaoEFTeste\bin\Debug\netcoreapp1.1\AvaCarona.IntegracaoEFTeste.pdb
+c:\users\acad.user\source\repos\t01_AvaCarona\AvaCarona.IntegracaoEFTeste\obj\Debug\netcoreapp1.1\AvaCarona.IntegracaoEFTeste.csprojAssemblyReference.cache
+c:\users\acad.user\source\repos\t01_AvaCarona\AvaCarona.IntegracaoEFTeste\obj\Debug\netcoreapp1.1\AvaCarona.IntegracaoEFTeste.dll
+c:\users\acad.user\source\repos\t01_AvaCarona\AvaCarona.IntegracaoEFTeste\obj\Debug\netcoreapp1.1\AvaCarona.IntegracaoEFTeste.pdb
